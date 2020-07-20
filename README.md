@@ -1,0 +1,1 @@
+This is a notebook containing the codes to my answers for the Stage one assessment of the Hamoye Internship
